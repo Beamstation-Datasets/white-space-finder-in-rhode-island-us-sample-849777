@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5b8571c-4482-428a-bb76-02e5852d59ed",
+  "export_job_id": "a301a55e-d140-49d2-a164-ce200e220acd",
   "id_short": 849777,
-  "published_at": "2026-04-15T07:45:49Z",
+  "published_at": "2026-04-18T19:58:21Z",
   "repo_name": "white-space-finder-in-rhode-island-us-sample-849777",
   "sample_asset_name": "beamstation_849777_food_and_drink-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/849777/beamstation_849777_food_and_drink-us-ri_SAMPLE_DIST.csv",
   "sample_records": 1,
   "sample_sha256": "547cd58ae7c3d7c84ab049623cc11cc96deb165edd00626e41f69fa1e9adfffe",
   "sample_size_bytes": 19871,
-  "total_records": 13
+  "total_records": 12
 }
